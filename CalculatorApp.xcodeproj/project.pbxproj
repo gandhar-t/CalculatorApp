@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F194B261BAC027100FFA115 /* Calculator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Calculator.playground; sourceTree = "<group>"; };
 		9F7DEF591BAA808200728BEA /* CalculatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F7DEF5C1BAA808200728BEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F7DEF5E1BAA808200728BEA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 			children = (
 				9F7DEF5B1BAA808200728BEA /* CalculatorApp */,
 				9F7DEF5A1BAA808200728BEA /* Products */,
+				9F194B261BAC027100FFA115 /* Calculator.playground */,
 			);
 			sourceTree = "<group>";
 		};
@@ -283,6 +285,7 @@
 				9F7DEF6D1BAA808200728BEA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
